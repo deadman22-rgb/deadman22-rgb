@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DEADMAN</h1>
-<img align="right" alt="*-*" width="400" src="https://tenor.com/view/smurf-cat-meme-silly-ak-gif-16285048023690099989"
+<img align="right" alt="*-*" width="400" src="https://imgflip.com/s/meme/Cute-Cat.jpg"
 <!--<img align="right" alt="Coding" width="400" style="border-radius:50%" src="https://scontent.fhyd2-1.fna.fbcdn.net/v/t1.6435-9/61700587_1374107669404720_7341415988786626560_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=yA8i0G-rT7IAX99tFia&_nc_ht=scontent.fhyd2-1.fna&oh=00_AfAYJRZyWU-yyOaDyABCQ9eJ544lwEoddhmVsbWUaEtMZg&oe=6432395C">-->
 Hi there, my name is Chitrang R Thakur. I am a programmer and game developer with a passion for cutting-edge technology. Over the years, I have developed a diverse set of skills, including expertise in c#, unity game engine, blender (low poly), aseprite, audacity. I believe that technology has the power to change the world for the better, and I am dedicated to using my skills to make a positive impact in society.
 
