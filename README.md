@@ -13,7 +13,7 @@ Overall, I am a driven and curious individual who is passionate about technology
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.instagram.com/chitraaaaang/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" height="30" width="30" /></a>
+<a href="https://www.instagram.com/hypocritrang/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
